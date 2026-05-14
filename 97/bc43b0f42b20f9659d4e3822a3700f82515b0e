@@ -1,0 +1,26 @@
+README.md
+  h_9795a88ea243cd 21,50
+README-Docker.md
+  s_e633f9b11e79e0::t_6142e00806d533 1-146
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "97bc43b0f42b20f9659d4e3822a3700f82515b0e",
+  "prompts": {},
+  "humans": {
+    "h_9795a88ea243cd": {
+      "author": "wangjing <wangjinge@digiwin.com>"
+    }
+  },
+  "sessions": {
+    "s_e633f9b11e79e0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bd78d161-50c6-47e0-9b2f-ea0d075b8a22",
+        "model": "mimo-v2.5-pro"
+      },
+      "human_author": "wangjing <wangjinge@digiwin.com>"
+    }
+  }
+}
