@@ -1,10 +1,11 @@
 # 第一阶段：构建
 FROM node:20-alpine AS builder
+ARG BASE_URL=/
 WORKDIR /app
 COPY package.json package-lock.json ./
 RUN npm ci
 COPY . .
-RUN npm run build
+RUN VITE_BASE_URL=${BASE_URL} npm run build
 
 # 第二阶段：运行
 FROM nginx:alpine

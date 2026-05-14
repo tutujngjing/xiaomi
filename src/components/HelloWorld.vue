@@ -15,7 +15,7 @@ const count = ref(0);
       <img :src="viteLogo" class="vite" alt="Vite logo" />
     </div>
     <div>
-      <h1>Get started-自动化部署-自动化测试</h1>
+      <h1>Get started-自动化部署-自动化测试-docker</h1>
       <p>Edit <code>src/App.vue</code> and save to test <code>HMR</code></p>
     </div>
     <button type="button" class="counter" @click="count++">
