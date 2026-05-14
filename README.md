@@ -18,6 +18,7 @@ gh auth login
 ```
 
 选择：
+
 - GitHub.com
 - HTTPS
 - 浏览器登录或粘贴 Token
@@ -46,6 +47,7 @@ gh repo create xiaomi --public --source=. --push
 ```
 
 这条命令做了三件事：
+
 - 在 GitHub 上创建了 `xiaomi` 仓库（公开）
 - 关联本地仓库为远程源
 - 推送代码到 `main` 分支
