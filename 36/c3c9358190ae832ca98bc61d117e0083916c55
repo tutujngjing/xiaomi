@@ -1,0 +1,14 @@
+src/components/HelloWorld.vue
+  h_9795a88ea243cd 2-5,7,18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "36c3c9358190ae832ca98bc61d117e0083916c55",
+  "prompts": {},
+  "humans": {
+    "h_9795a88ea243cd": {
+      "author": "wangjing <wangjinge@digiwin.com>"
+    }
+  }
+}
